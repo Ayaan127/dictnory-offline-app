@@ -1,0 +1,1 @@
+# dictnory-offline-app
